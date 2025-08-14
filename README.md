@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 *Languages:* Java, JavaScript, HTML, CSS, SQL  
 *Frameworks & Tools:* Spring Boot, Hibernate, React, Node.js, Git, MySQL  
-*Core Skills:* Data Structures & Algorithms, REST APIs, Full Stack Development  
+*Core Skills:* Data Structures & Algorithms, REST APIs
 
 ## 📈 Competitive Programming
 - Regular participant on *LeetCode*  
